@@ -1,0 +1,2 @@
+D:\Assessment1AResp\obj\Debug\Assessment1a.main.resources
+D:\Assessment1AResp\obj\Debug\Assessment1a.csproj.GenerateResource.cache
